@@ -90,7 +90,7 @@ gtkwave sim/uart.vcd
 -  **Integrate Full FIFO Buffering**: Use both TX and RX FIFOs for buffered data streams and flow control.
 -  **AXI-Lite Interface Integration**: Wrap UART logic with an AXI-lite interface for SoC integration.
 
-## 📊 Simulation Output
+
 
 ![UART waveform simulation](assets/waveform.png)
 
