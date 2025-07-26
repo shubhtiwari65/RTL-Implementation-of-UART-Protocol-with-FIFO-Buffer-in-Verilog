@@ -23,14 +23,14 @@ RTL-Implementation-of-UART-Protocol-with-FIFO-Buffer-in-Verilog/
 │   ├── uart_tx.v          → UART Transmitter module
 │   ├── uart_rx.v          → UART Receiver module with optional FIFO integration
 │   ├── baud_gen.v         → Baud rate tick generator
-│   ├── fifo.v             → FIFO buffer module (optional)
+│   ├── fifo.v             → FIFO buffer module 
 │   └── uart_top.v         → Top-level module connecting TX, RX, and tick
 ├── tb/
 │   └── uart_tb.v          → Testbench simulating UART loopback
 ├── sim/
 │   └── uart.vcd           → Waveform output for GTKWave
 ├── waveform.png           → Screenshot of simulation waveform
-└── README.md              → Project documentation (this file)
+└── README.md              → Project documentation 
 ```
 
 
